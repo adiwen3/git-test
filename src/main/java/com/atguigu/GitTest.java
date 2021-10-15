@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("hello git-hotfix分支");
         System.out.println("hello git-master分支和后台fix，提交冲突3");
         System.out.println("hello git-hotfix分支-second commit2");
+        System.out.println("hello git-master分支-commit3，push到github远程仓库");
     }
 }
