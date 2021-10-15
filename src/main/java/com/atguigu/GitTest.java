@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("hello git-未修改文件名是蓝色-已添加多暂存区的文件被修改");
         System.out.println("hello git-蓝色文件，不用先add在commit，可以直接commit，因为已经追踪过这个文件");
         System.out.println("hello git-hotfix分支");
+        System.out.println("hello git-hotfix分支-second commit");
     }
 }
