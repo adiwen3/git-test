@@ -15,5 +15,6 @@ public class GitTest {
         System.out.println("hello git-hotfix分支-second commit2");
         System.out.println("hello git-master分支-commit3，push到github远程仓库");
         System.out.println("hello git-master分支-commit3，github网页端修改，idea端pull拉取");
+        System.out.println("hello git-master分支-commit3，github网页端修改，idea端pull拉取-pull与update project不同");
     }
 }
